@@ -29,7 +29,7 @@ jobs:
         
         python3 main.py <<EOF
         ${sckey}
-        ${user}
-        ${pwd}
-        ${step}
+        15311937890
+        xiaomi134526
+        18450
         EOF
